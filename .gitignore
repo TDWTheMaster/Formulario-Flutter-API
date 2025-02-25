@@ -1,3 +1,29 @@
+# Archivos generados por Flutter/Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+*.lock
+
+# Archivos del entorno de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Archivos de configuración de IDEs
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos específicos de MacOS
+*.xcworkspace
+ios/Pods
+
 # Miscellaneous
 *.class
 *.log
